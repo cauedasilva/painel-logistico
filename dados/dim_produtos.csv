@@ -1,0 +1,49 @@
+﻿produto_id;produto;categoria;peso_kg;valor_unitario
+P0101;Cilindro hidráulico K92;Cilindros hidráulicos;14,20;3710,00
+P0102;Cilindro hidráulico D86;Cilindros hidráulicos;52,70;1470,00
+P0103;Cilindro hidráulico M80;Cilindros hidráulicos;40,30;3260,00
+P0104;Cilindro hidráulico H85;Cilindros hidráulicos;51,80;5250,00
+P0105;Cilindro hidráulico B24;Cilindros hidráulicos;30,90;910,00
+P0106;Cilindro hidráulico A97;Cilindros hidráulicos;22,90;1450,00
+P0201;Válvula direcional G42;Válvulas direcionais;4,40;1120,00
+P0202;Válvula direcional F58;Válvulas direcionais;3,40;2800,00
+P0203;Válvula direcional B53;Válvulas direcionais;8,00;1610,00
+P0204;Válvula direcional E68;Válvulas direcionais;1,60;1670,00
+P0205;Válvula direcional S83;Válvulas direcionais;2,00;1930,00
+P0206;Válvula direcional F56;Válvulas direcionais;3,20;2430,00
+P0301;Bomba hidráulica M80;Bombas hidráulicas;24,00;2910,00
+P0302;Bomba hidráulica K86;Bombas hidráulicas;25,40;3220,00
+P0303;Bomba hidráulica K43;Bombas hidráulicas;40,10;6660,00
+P0304;Bomba hidráulica H75;Bombas hidráulicas;38,90;8680,00
+P0305;Bomba hidráulica D26;Bombas hidráulicas;26,20;2110,00
+P0306;Bomba hidráulica K95;Bombas hidráulicas;37,90;13550,00
+P0401;Motor hidráulico H28;Motores hidráulicos;8,60;10790,00
+P0402;Motor hidráulico B90;Motores hidráulicos;21,90;5360,00
+P0403;Motor hidráulico S79;Motores hidráulicos;29,50;11510,00
+P0404;Motor hidráulico E80;Motores hidráulicos;13,80;7750,00
+P0405;Motor hidráulico H61;Motores hidráulicos;33,00;9130,00
+P0406;Motor hidráulico E11;Motores hidráulicos;20,20;6260,00
+P0501;Atuador linear M68;Atuadores lineares;2,80;6310,00
+P0502;Atuador linear F35;Atuadores lineares;20,50;8430,00
+P0503;Atuador linear K73;Atuadores lineares;8,00;4990,00
+P0504;Atuador linear A47;Atuadores lineares;20,60;5550,00
+P0505;Atuador linear B66;Atuadores lineares;9,30;8350,00
+P0506;Atuador linear K43;Atuadores lineares;17,90;7320,00
+P0601;Componente pneumático G71;Componentes pneumáticos;2,00;870,00
+P0602;Componente pneumático H57;Componentes pneumáticos;3,80;600,00
+P0603;Componente pneumático G28;Componentes pneumáticos;0,70;690,00
+P0604;Componente pneumático A67;Componentes pneumáticos;2,00;70,00
+P0605;Componente pneumático B88;Componentes pneumáticos;2,40;840,00
+P0606;Componente pneumático M15;Componentes pneumáticos;3,20;270,00
+P0701;Unidade de potência R91;Unidades de potência;197,90;46300,00
+P0702;Unidade de potência R84;Unidades de potência;115,00;9200,00
+P0703;Unidade de potência X72;Unidades de potência;160,60;45120,00
+P0704;Unidade de potência K38;Unidades de potência;184,80;45560,00
+P0705;Unidade de potência M98;Unidades de potência;139,30;14120,00
+P0706;Unidade de potência R30;Unidades de potência;146,00;12290,00
+P0801;Sensor/controlador M49;Sensores e controladores;1,90;2800,00
+P0802;Sensor/controlador C76;Sensores e controladores;1,10;1520,00
+P0803;Sensor/controlador B59;Sensores e controladores;1,70;1470,00
+P0804;Sensor/controlador F92;Sensores e controladores;1,80;420,00
+P0805;Sensor/controlador A13;Sensores e controladores;0,80;2750,00
+P0806;Sensor/controlador E67;Sensores e controladores;1,10;1320,00

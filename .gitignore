@@ -1,0 +1,7 @@
+entrada/
+logs/
+dados/fato_pedidos.csv
+dados/resumo_kpis.json
+*.tmp
+__pycache__/
+relatorios/

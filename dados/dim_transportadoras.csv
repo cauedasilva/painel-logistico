@@ -1,0 +1,6 @@
+﻿transportadora_id;transportadora;modal;meta_no_prazo;custo_relativo
+TR01;Rota Sul Cargas;Rodoviário;0,94;1,00
+TR02;Expresso Atlântico;Rodoviário;0,88;0,85
+TR03;Veloz Log;Rodoviário expresso;0,96;1,35
+TR04;TransBrasil Fracionados;Rodoviário fracionado;0,82;0,75
+TR05;AeroCarga Express;Aéreo;0,97;2,40

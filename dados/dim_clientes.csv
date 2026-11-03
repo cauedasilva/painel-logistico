@@ -1,0 +1,181 @@
+﻿cliente_id;cliente;segmento;cidade;uf;regiao
+C001;Tecpack Metalúrgica;Mineração;Caxias do Sul;RS;Sul
+C002;Sulflex Agroindustrial;Alimentos e bebidas;São José dos Campos;SP;Sudeste
+C003;Hidrominas Metalúrgica;Máquinas agrícolas;Campinas;SP;Sudeste
+C004;Novamec Agroindustrial;Máquinas agrícolas;Contagem;MG;Sudeste
+C005;Sulpack Indústria;Mineração;Rondonópolis;MT;Centro-Oeste
+C006;Fortemaq Máquinas;Siderurgia;Resende;RJ;Sudeste
+C007;Deltaplast Metalúrgica;Papel e celulose;Campinas;SP;Sudeste
+C008;Indupack Metalúrgica;Siderurgia;Porto Alegre;RS;Sul
+C009;Forçaminas Metalúrgica;Plásticos;São Paulo;SP;Sudeste
+C010;Induplast Máquinas;Automotivo;São Paulo;SP;Sudeste
+C011;Ômegasul Metalúrgica;Mineração;Recife;PE;Nordeste
+C012;Novasul Agroindustrial;Automotivo;Caxias do Sul;RS;Sul
+C013;Induminas Agroindustrial;Automotivo;Ribeirão Preto;SP;Sudeste
+C014;Induminas Máquinas;Construção;Londrina;PR;Sul
+C015;Deltamaq Indústria;Máquinas agrícolas;Jaraguá do Sul;SC;Sul
+C016;Novaplast Agroindustrial;Alimentos e bebidas;Contagem;MG;Sudeste
+C017;Hidrotech Equipamentos;Mineração;Sorocaba;SP;Sudeste
+C018;Metalflex Equipamentos;Siderurgia;Curitiba;PR;Sul
+C019;Primemec Equipamentos;Construção;Blumenau;SC;Sul
+C020;Açãosul Metalúrgica;Máquinas agrícolas;Contagem;MG;Sudeste
+C021;Sulagro Metalúrgica;Siderurgia;Novo Hamburgo;RS;Sul
+C022;Açãominas Equipamentos;Siderurgia;Cuiabá;MT;Centro-Oeste
+C023;Açãomec Metalúrgica;Máquinas agrícolas;Salvador;BA;Nordeste
+C024;Megaplast Equipamentos;Siderurgia;Contagem;MG;Sudeste
+C025;Metalminas Equipamentos;Automotivo;Ribeirão Preto;SP;Sudeste
+C026;Tecmaq Agroindustrial;Construção;Blumenau;SC;Sul
+C027;Açãoagro Equipamentos;Máquinas agrícolas;Itajaí;SC;Sul
+C028;Açãoflex Metalúrgica;Siderurgia;Campinas;SP;Sudeste
+C029;Primemaq Máquinas;Máquinas agrícolas;Resende;RJ;Sudeste
+C030;Fortefer Indústria;Máquinas agrícolas;Campo Grande;MS;Centro-Oeste
+C031;Deltatech Equipamentos;Mineração;Ribeirão Preto;SP;Sudeste
+C032;Novaminas Indústria;Papel e celulose;Jaraguá do Sul;SC;Sul
+C033;Forçamec Indústria;Automotivo;São José dos Campos;SP;Sudeste
+C034;Primeminas Máquinas;Siderurgia;Jaraguá do Sul;SC;Sul
+C035;Primeminas Equipamentos;Alimentos e bebidas;Recife;PE;Nordeste
+C036;Ômegapack Agroindustrial;Plásticos;Novo Hamburgo;RS;Sul
+C037;Sulmaq Metalúrgica;Mineração;São José dos Campos;SP;Sudeste
+C038;Açãominas Metalúrgica;Máquinas agrícolas;Campo Grande;MS;Centro-Oeste
+C039;Forteplast Indústria;Automotivo;Chapecó;SC;Sul
+C040;Agroflex Metalúrgica;Mineração;Novo Hamburgo;RS;Sul
+C041;Forteflex Equipamentos;Papel e celulose;Jaraguá do Sul;SC;Sul
+C042;Sulmaq Equipamentos;Papel e celulose;Chapecó;SC;Sul
+C043;Forteflex Máquinas;Máquinas agrícolas;Maringá;PR;Sul
+C044;Açãominas Máquinas;Máquinas agrícolas;Camaçari;BA;Nordeste
+C045;Fortemaq Indústria;Construção;Novo Hamburgo;RS;Sul
+C046;Metalsul Indústria;Alimentos e bebidas;Contagem;MG;Sudeste
+C047;Forteagro Agroindustrial;Automotivo;Ponta Grossa;PR;Sul
+C048;Forçapack Indústria;Construção;Itajaí;SC;Sul
+C049;Valepack Indústria;Automotivo;Londrina;PR;Sul
+C050;Ômegaagro Equipamentos;Construção;Belo Horizonte;MG;Sudeste
+C051;Hidropack Equipamentos;Papel e celulose;Rio de Janeiro;RJ;Sudeste
+C052;Deltaminas Agroindustrial;Alimentos e bebidas;Jaraguá do Sul;SC;Sul
+C053;Valeflex Equipamentos;Mineração;Campo Grande;MS;Centro-Oeste
+C054;Primesul Equipamentos;Siderurgia;Serra;ES;Sudeste
+C055;Ômegaagro Máquinas;Siderurgia;Londrina;PR;Sul
+C056;Tecsul Equipamentos;Plásticos;Porto Alegre;RS;Sul
+C057;Indufer Equipamentos;Mineração;Chapecó;SC;Sul
+C058;Indutech Agroindustrial;Plásticos;Resende;RJ;Sudeste
+C059;Forçaflex Equipamentos;Construção;Novo Hamburgo;RS;Sul
+C060;Valeminas Agroindustrial;Automotivo;Resende;RJ;Sudeste
+C061;Forçamec Metalúrgica;Mineração;Caxias do Sul;RS;Sul
+C062;Indumaq Equipamentos;Siderurgia;Maringá;PR;Sul
+C063;Valesul Indústria;Máquinas agrícolas;Anápolis;GO;Centro-Oeste
+C064;Indusul Indústria;Automotivo;São José dos Campos;SP;Sudeste
+C065;Açãoplast Agroindustrial;Automotivo;Ribeirão Preto;SP;Sudeste
+C066;Tecmaq Equipamentos;Automotivo;Resende;RJ;Sudeste
+C067;Novatech Indústria;Siderurgia;Ponta Grossa;PR;Sul
+C068;Induflex Indústria;Mineração;Chapecó;SC;Sul
+C069;Primepack Equipamentos;Alimentos e bebidas;Contagem;MG;Sudeste
+C070;Valetech Metalúrgica;Alimentos e bebidas;Porto Alegre;RS;Sul
+C071;Valemaq Indústria;Plásticos;Jaraguá do Sul;SC;Sul
+C072;Ômegafer Equipamentos;Papel e celulose;Maringá;PR;Sul
+C073;Agroflex Indústria;Papel e celulose;Maringá;PR;Sul
+C074;Forçapack Equipamentos;Alimentos e bebidas;Sorocaba;SP;Sudeste
+C075;Novatech Agroindustrial;Siderurgia;Blumenau;SC;Sul
+C076;Sulmec Metalúrgica;Automotivo;Camaçari;BA;Nordeste
+C077;Forteminas Máquinas;Papel e celulose;São José dos Campos;SP;Sudeste
+C078;Forçasul Metalúrgica;Automotivo;Joinville;SC;Sul
+C079;Agromec Equipamentos;Papel e celulose;Campinas;SP;Sudeste
+C080;Açãomaq Metalúrgica;Mineração;Joinville;SC;Sul
+C081;Novamaq Metalúrgica;Plásticos;Uberlândia;MG;Sudeste
+C082;Megafer Agroindustrial;Alimentos e bebidas;Recife;PE;Nordeste
+C083;Deltamaq Equipamentos;Mineração;Ribeirão Preto;SP;Sudeste
+C084;Metalmec Indústria;Alimentos e bebidas;Chapecó;SC;Sul
+C085;Novaminas Máquinas;Construção;Goiânia;GO;Centro-Oeste
+C086;Sulmaq Máquinas;Automotivo;Uberlândia;MG;Sudeste
+C087;Sulsul Máquinas;Siderurgia;Suape;PE;Nordeste
+C088;Açãofer Equipamentos;Plásticos;Ribeirão Preto;SP;Sudeste
+C089;Hidrofer Máquinas;Construção;São Paulo;SP;Sudeste
+C090;Novaplast Máquinas;Automotivo;Novo Hamburgo;RS;Sul
+C091;Deltamec Agroindustrial;Mineração;Sorocaba;SP;Sudeste
+C092;Açãoflex Indústria;Plásticos;Maringá;PR;Sul
+C093;Açãopack Máquinas;Construção;Rondonópolis;MT;Centro-Oeste
+C094;Açãopack Metalúrgica;Máquinas agrícolas;Ribeirão Preto;SP;Sudeste
+C095;Induplast Metalúrgica;Plásticos;Porto Alegre;RS;Sul
+C096;Tectech Equipamentos;Máquinas agrícolas;São Paulo;SP;Sudeste
+C097;Tecflex Agroindustrial;Plásticos;Ribeirão Preto;SP;Sudeste
+C098;Metalmaq Equipamentos;Mineração;São Paulo;SP;Sudeste
+C099;Hidromaq Agroindustrial;Papel e celulose;Blumenau;SC;Sul
+C100;Hidroagro Agroindustrial;Construção;Fortaleza;CE;Nordeste
+C101;Megapack Máquinas;Alimentos e bebidas;Uberlândia;MG;Sudeste
+C102;Primeflex Máquinas;Alimentos e bebidas;Campo Grande;MS;Centro-Oeste
+C103;Primeagro Máquinas;Plásticos;Joinville;SC;Sul
+C104;Valeagro Metalúrgica;Plásticos;Rio de Janeiro;RJ;Sudeste
+C105;Sulflex Indústria;Plásticos;Campinas;SP;Sudeste
+C106;Forçatech Metalúrgica;Máquinas agrícolas;Londrina;PR;Sul
+C107;Açãofer Agroindustrial;Construção;Ribeirão Preto;SP;Sudeste
+C108;Alfaplast Indústria;Siderurgia;Itajaí;SC;Sul
+C109;Primefer Indústria;Papel e celulose;Fortaleza;CE;Nordeste
+C110;Açãoplast Equipamentos;Mineração;São Paulo;SP;Sudeste
+C111;Tecpack Agroindustrial;Máquinas agrícolas;Londrina;PR;Sul
+C112;Ômegaminas Indústria;Automotivo;Suape;PE;Nordeste
+C113;Hidromaq Indústria;Papel e celulose;Joinville;SC;Sul
+C114;Agropack Equipamentos;Construção;Chapecó;SC;Sul
+C115;Primepack Indústria;Alimentos e bebidas;Joinville;SC;Sul
+C116;Ômegaplast Máquinas;Máquinas agrícolas;São Paulo;SP;Sudeste
+C117;Hidropack Agroindustrial;Mineração;Caxias do Sul;RS;Sul
+C118;Sulminas Equipamentos;Siderurgia;Londrina;PR;Sul
+C119;Novapack Indústria;Máquinas agrícolas;Manaus;AM;Norte
+C120;Primepack Máquinas;Alimentos e bebidas;Joinville;SC;Sul
+C121;Tecmaq Indústria;Siderurgia;São Paulo;SP;Sudeste
+C122;Valeflex Agroindustrial;Alimentos e bebidas;Suape;PE;Nordeste
+C123;Metaltech Máquinas;Construção;Itajaí;SC;Sul
+C124;Megaagro Agroindustrial;Mineração;Cuiabá;MT;Centro-Oeste
+C125;Metalmec Equipamentos;Mineração;Resende;RJ;Sudeste
+C126;Valeplast Indústria;Mineração;São Paulo;SP;Sudeste
+C127;Megamaq Metalúrgica;Papel e celulose;São Paulo;SP;Sudeste
+C128;Metalpack Agroindustrial;Construção;São Paulo;SP;Sudeste
+C129;Alfatech Metalúrgica;Plásticos;Londrina;PR;Sul
+C130;Deltapack Equipamentos;Alimentos e bebidas;Ponta Grossa;PR;Sul
+C131;Metalfer Máquinas;Papel e celulose;Itajaí;SC;Sul
+C132;Forçamaq Indústria;Automotivo;Maringá;PR;Sul
+C133;Sulagro Agroindustrial;Papel e celulose;Chapecó;SC;Sul
+C134;Alfatech Equipamentos;Plásticos;Campinas;SP;Sudeste
+C135;Megamec Agroindustrial;Automotivo;Jaraguá do Sul;SC;Sul
+C136;Deltaagro Máquinas;Plásticos;Itajaí;SC;Sul
+C137;Agroagro Equipamentos;Máquinas agrícolas;Ribeirão Preto;SP;Sudeste
+C138;Megaflex Máquinas;Papel e celulose;Ribeirão Preto;SP;Sudeste
+C139;Açãoflex Agroindustrial;Automotivo;São Paulo;SP;Sudeste
+C140;Deltaflex Agroindustrial;Alimentos e bebidas;Campinas;SP;Sudeste
+C141;Alfasul Indústria;Construção;Campinas;SP;Sudeste
+C142;Valemaq Metalúrgica;Automotivo;Londrina;PR;Sul
+C143;Hidroplast Indústria;Automotivo;Itajaí;SC;Sul
+C144;Açãominas Indústria;Siderurgia;Joinville;SC;Sul
+C145;Metalplast Indústria;Alimentos e bebidas;Novo Hamburgo;RS;Sul
+C146;Deltaplast Indústria;Automotivo;Chapecó;SC;Sul
+C147;Forçaagro Máquinas;Construção;Rondonópolis;MT;Centro-Oeste
+C148;Fortepack Metalúrgica;Construção;Novo Hamburgo;RS;Sul
+C149;Metalpack Metalúrgica;Construção;Resende;RJ;Sudeste
+C150;Ômegapack Equipamentos;Construção;São Paulo;SP;Sudeste
+C151;Deltaplast Equipamentos;Automotivo;Porto Alegre;RS;Sul
+C152;Novamec Máquinas;Papel e celulose;Jaraguá do Sul;SC;Sul
+C153;Deltaplast Máquinas;Alimentos e bebidas;Rio de Janeiro;RJ;Sudeste
+C154;Indusul Metalúrgica;Papel e celulose;Caxias do Sul;RS;Sul
+C155;Novaminas Metalúrgica;Papel e celulose;Rio de Janeiro;RJ;Sudeste
+C156;Induminas Metalúrgica;Papel e celulose;São José dos Campos;SP;Sudeste
+C157;Indufer Agroindustrial;Plásticos;Rio de Janeiro;RJ;Sudeste
+C158;Megatech Equipamentos;Construção;Novo Hamburgo;RS;Sul
+C159;Forçasul Indústria;Alimentos e bebidas;Maringá;PR;Sul
+C160;Ômegaagro Metalúrgica;Construção;Contagem;MG;Sudeste
+C161;Deltapack Agroindustrial;Alimentos e bebidas;Cuiabá;MT;Centro-Oeste
+C162;Açãoflex Equipamentos;Papel e celulose;Porto Alegre;RS;Sul
+C163;Deltapack Indústria;Máquinas agrícolas;Jaraguá do Sul;SC;Sul
+C164;Agroplast Equipamentos;Siderurgia;Sorocaba;SP;Sudeste
+C165;Indumec Máquinas;Automotivo;Caxias do Sul;RS;Sul
+C166;Novamec Equipamentos;Plásticos;Blumenau;SC;Sul
+C167;Agrotech Máquinas;Construção;Contagem;MG;Sudeste
+C168;Alfamec Máquinas;Plásticos;Curitiba;PR;Sul
+C169;Megaflex Equipamentos;Plásticos;Rio de Janeiro;RJ;Sudeste
+C170;Deltatech Máquinas;Papel e celulose;Camaçari;BA;Nordeste
+C171;Agroplast Metalúrgica;Siderurgia;São José dos Campos;SP;Sudeste
+C172;Fortemec Equipamentos;Construção;Campinas;SP;Sudeste
+C173;Indupack Agroindustrial;Mineração;Campinas;SP;Sudeste
+C174;Megamec Indústria;Automotivo;Porto Alegre;RS;Sul
+C175;Metalsul Agroindustrial;Construção;Porto Alegre;RS;Sul
+C176;Sulsul Equipamentos;Construção;Sorocaba;SP;Sudeste
+C177;Tecminas Indústria;Automotivo;São José dos Campos;SP;Sudeste
+C178;Tecflex Equipamentos;Plásticos;Sorocaba;SP;Sudeste
+C179;Novasul Metalúrgica;Construção;Ponta Grossa;PR;Sul
+C180;Megaminas Indústria;Alimentos e bebidas;Campinas;SP;Sudeste
